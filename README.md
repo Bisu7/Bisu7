@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently a btech Computer science student. <br>
+Hi, I'm Biswajit Kumar Dandapat — a passionate Computer Science undergrad at SRM University AP, with a keen interest in Machine Learning, Web Development, and Data Science.
+
+💻 I love building real-world projects that combine data and design — from smart ML models to full-stack web apps.
+🌱 Currently learning: System Design, Docker, and enhancing my backend engineering skills.
+
+🔍 I’m also exploring open-source contributions and love collaborating on meaningful tech problems.
+
+📫 Let's connect!
+Feel free to explore my repositories or reach out for collaboration, internships, or tech discussions.
 
 
 ## 🌐 Socials:
