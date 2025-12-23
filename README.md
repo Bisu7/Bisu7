@@ -12,9 +12,9 @@ Feel free to explore my repositories or reach out for collaboration, internships
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=8920313&isLevel=false" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
 </p>
   
 ## 🌐 Socials:
