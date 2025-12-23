@@ -9,10 +9,6 @@ Hi, I'm Biswajit Kumar Dandapat — a passionate Computer Science undergrad at S
 📫 Let's connect!
 Feel free to explore my repositories or reach out for collaboration, internships, or tech discussions.
 
-# 📊 Leetcode Stats:
-![](https://leetcode.com/medal/?showImg=0&id=7847442&isLevel=false)<br/>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-kumar-4681bb227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitkr.dandapat@gmail.com) 
 
