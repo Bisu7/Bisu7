@@ -1,53 +1,82 @@
-# 💫 About Me:
-Hi, I'm Biswajit Kumar Dandapat — a passionate Computer Science undergrad at SRM University AP, with a keen interest in Machine Learning, Web Development, and Data Science.
+<div align="center">
 
-💻 I love building real-world projects that combine data and design — from smart ML models to full-stack web apps.
-🌱 Currently learning: System Design, Docker, and enhancing my backend engineering skills.
+# 👋 Hello, I'm Biswajit Kumar Dandapat
+**Data Science Enthusiast | Full-Stack Developer | Machine Learning Specialist**
 
-🔍 I’m also exploring open-source contributions and love collaborating on meaningful tech problems.
-
-📫 Let's connect!
-Feel free to explore my repositories or reach out for collaboration, internships, or tech discussions.
-
-
-<h2 align="center">Leetcode Badge<h2>  
-<p align="center">
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="gif" height="180" width="180" /></a>
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="gif" height="180" width="180" /></a>
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="gif" height="180" width="180" /></a>
-</p>
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-kumar-4681bb227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitkr.dandapat@gmail.com) 
-
-### 🛠️ Technical Skills
-
-**Languages & Data Science** [![My Skills](https://skillicons.dev/icons?i=cpp,python,mysql,mongodb,statsmodels)](https://skillicons.dev)  
-[cite_start]*C, C++, SQL, Python, Pandas, NumPy, Scikit-learn, Matplotlib* [cite: 14, 17, 19]
-
-**Web Development (Full-Stack)** [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask)](https://skillicons.dev)  
-[cite_start]*HTML, CSS, React.js, Tailwind CSS, Node.js, Flask* [cite: 15, 16]
-
-**Tools & Infrastructure** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,hadoop)](https://skillicons.dev)  
-[cite_start]*GitHub, Docker, Hadoop* [cite: 18]
-
----
-### 🚀 Professional Experience
-
-* **Data Science Intern** | [cite_start]**Celebel Technologies** (May 2025 – June 2025) [cite: 9, 10]
-    * [cite_start]Worked on real-world projects involving data preprocessing and model development[cite: 11].
-    * [cite_start]Gained hands-on experience with Python, SQL, and Machine Learning to deliver business insights[cite: 12].
-* **Data Analytics Intern** | [cite_start]**Edunet** (June 2024 – July 2024) [cite: 4, 6]
-    * [cite_start]Analyzed datasets to uncover patterns using Python and Excel[cite: 7].
-    * [cite_start]Performed data cleaning and statistical analysis to support data-driven decisions[cite: 8].
+[cite_start][cite: 2, 4, 9, 13]
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bisu7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bisu7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bisu7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 About Me
+[cite_start]I am a Computer Science student at **SRM University** with a strong focus on building intelligent applications[cite: 21, 22]. 
+[cite_start]I specialize in bridging the gap between **Data Science** and **Web Technologies** to create high-impact tools[cite: 13, 19].
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bisu7&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+[**LinkedIn**](https://linkedin.com) • [**LeetCode**](https://leetcode.com) • [**Email**](mailto:biswajitkumar_dandapat@srmap.edu.in)
+[cite_start][cite: 3, 5]
 
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages & Backend**
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,mysql,mongodb,nodejs,flask)](https://skillicons.dev)
+[cite_start][cite: 14, 16, 17]
+
+**Frontend & Design**
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
+[cite_start][cite: 15]
+
+**DevOps & Big Data**
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,hadoop)](https://skillicons.dev)
+[cite_start][cite: 18]
+
+**Libraries & Frameworks**
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `NLP` • `RAG`
+[cite_start][cite: 19, 39]
+
+---
+
+</div>
+
+### 💼 Professional Journey
+
+* **Data Science Intern | [cite_start]Celebel Technologies** *(May 2025 - June 2025)* [cite: 9, 10]
+    * [cite_start]Developed ML models and performed exploratory data analysis for real-world projects[cite: 11].
+    * [cite_start]Leveraged SQL and Python to extract actionable business insights[cite: 12].
+* **Data Analytics Intern | [cite_start]Edunet** *(June 2024 - July 2024)* [cite: 4, 6]
+    * [cite_start]Analyzed datasets to uncover trends and patterns using statistical methods[cite: 7, 8].
+    * [cite_start]Streamlined data-driven decision-making through cleaning and visualization[cite: 8].
+
+---
+
+### 📂 Key Projects
+
+#### 🤖 Sevak — AI Legal Assistant
+* [cite_start]Built a RAG-based AI chatbot using **Gemini API** and **ChromaDB** for legal guidance[cite: 39, 41, 42].
+* [cite_start]Achieved **90%+ response accuracy** and containerized the solution with **Docker**[cite: 41, 43].
+
+#### 🔍 WebMiner — Intelligent Data Scraping
+* [cite_start]Designed a modular scraper using **BeautifulSoup** and **Random Forest** to extract product metrics[cite: 44, 46].
+* [cite_start]Increased HTML tag detection accuracy to **90%+** using adaptive learning[cite: 47].
+
+#### 🎙️ Voice Craft — Real-time Speech Synthesis
+* [cite_start]Developed a platform that generates lifelike audio from text in under **1.2 seconds**[cite: 49, 51].
+* [cite_start]Implemented non-blocking API calls between **React** and **Flask** for smooth playback[cite: 52].
+
+#### 👗 Wardrobe AI — Image Classification
+* [cite_start]Trained a **KNN model** on the Fashion MNIST dataset with **90%+ accuracy**[cite: 53, 55, 56].
+* [cite_start]Optimized image preprocessing to reduce input processing time by **40%**[cite: 57].
+
+---
+
+### 🎓 Education & Certifications
+
+* [cite_start]**SRM University, Andhra Pradesh**: B.Tech in CSE (**CGPA: 8.2**)[cite: 21, 22].
+* [cite_start]**Delhi Public School, Jamshedpur**: Intermediate (**85%**) & Secondary (**80%**)[cite: 23, 25, 29].
+* **Certifications**: Learning C++ (LinkedIn) | [cite_start]Data Structures Foundations[cite: 31, 32, 35].
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
