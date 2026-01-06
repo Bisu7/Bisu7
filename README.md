@@ -32,6 +32,16 @@ Feel free to explore my repositories or reach out for collaboration, internships
 [cite_start]*GitHub, Docker, Hadoop* [cite: 18]
 
 ---
+### 🚀 Professional Experience
+
+* **Data Science Intern** | [cite_start]**Celebel Technologies** (May 2025 – June 2025) [cite: 9, 10]
+    * [cite_start]Worked on real-world projects involving data preprocessing and model development[cite: 11].
+    * [cite_start]Gained hands-on experience with Python, SQL, and Machine Learning to deliver business insights[cite: 12].
+* **Data Analytics Intern** | [cite_start]**Edunet** (June 2024 – July 2024) [cite: 4, 6]
+    * [cite_start]Analyzed datasets to uncover patterns using Python and Excel[cite: 7].
+    * [cite_start]Performed data cleaning and statistical analysis to support data-driven decisions[cite: 8].
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bisu7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
