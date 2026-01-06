@@ -26,7 +26,7 @@ Feel free to explore my repositories or reach out for collaboration, internships
 <p align="left">
   <strong>Languages & Data Science</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,statsmodels" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,statsmodels,javascript" />
   </a>
   <br>
 </p>
