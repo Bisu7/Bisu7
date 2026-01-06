@@ -18,7 +18,8 @@ Feel free to explore my repositories or reach out for collaboration, internships
 </p>
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-kumar-4681bb227/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitkr.dandapat@gmail.com) 
+[**LinkedIn**](https://linkedin.com) • [**LeetCode**](https://leetcode.com) • [**Email**](mailto:biswajitkumar_dandapat@srmap.edu.in)
+
 
 ### 🛠️ Technical Skills
 
