@@ -22,34 +22,15 @@ Feel free to explore my repositories or reach out for collaboration, internships
 
 ### 🛠️ Technical Skills
 
-<p align="left">
-  <strong>Languages & Data Science</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,statsmodels" />
-  </a>
-  <br>
-  <i>C, C++, SQL, Python, Pandas, NumPy, Scikit-learn, Matplotlib</i> [cite: 14, 17, 19]
-</p>
-
-<p align="left">
-  <strong>Web Development (Full-Stack)</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask" />
-  </a>
-  <br>
-  <i>HTML, CSS, React.js, Tailwind CSS, Node.js, Flask</i> [cite: 15, 16]
-</p>
-
-<p align="left">
-  <strong>Tools & Infrastructure</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,hadoop" />
-  </a>
-  <br>
-  <i>GitHub, Docker, Hadoop</i> [cite: 18]
-</p>
+| **Languages & Data Science** | **Web Development** | **Tools & Infrastructure** |
+| :--- | :--- | :--- |
+| [![Languages](https://skillicons.dev/icons?i=cpp,python,mysql,mongodb)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,hadoop)](https://skillicons.dev) |
+| [cite_start]C, C++, SQL, Python [cite: 14] | [cite_start]HTML, CSS, React.js [cite: 15] | [cite_start]GitHub, Docker [cite: 18] |
+| [cite_start]Pandas, NumPy, Scikit-learn [cite: 19] | [cite_start]Tailwind CSS, Node.js, Flask [cite: 15, 16] | [cite_start]Hadoop [cite: 18] |
+| [cite_start]Matplotlib, NLP, OOPS [cite: 19] | | |
 
 ---
+
 ### 🚀 Professional Experience
 
 * **Data Science Intern** | [cite_start]**Celebel Technologies** (May 2025 – June 2025) [cite: 9, 10]
