@@ -20,9 +20,8 @@ Feel free to explore my repositories or reach out for collaboration, internships
 ## 🌐 Socials:
 [**LinkedIn**](https://www.linkedin.com/in/biswajit-kumar-4681bb227/) • [**LeetCode**](https://leetcode.com/u/biswajitkumar_dandapat/) • [**Email**](mailto:biswajitkumar_dandapat@srmap.edu.in)
 
-
-### 🛠️ Technical Skills
-
+---
+### 🛠️ Technical Skills:
 <p align="left">
   <strong>Languages & Data Science</strong><br>
   <a href="https://skillicons.dev">
@@ -46,7 +45,7 @@ Feel free to explore my repositories or reach out for collaboration, internships
   </a>
   <br>
 </p>
-
+---
 ### 🚀 Professional Experience
 
 * **Data Science Intern** | [cite_start]**Celebel Technologies** (May 2025 – June 2025) [cite: 9, 10]
