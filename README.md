@@ -26,7 +26,7 @@ Feel free to explore my repositories or reach out for collaboration, internships
 <p align="left">
   <strong>Languages & Data Science</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,javascript,tensorflow" />
   </a>
   <br>
 </p>
@@ -52,8 +52,8 @@ Feel free to explore my repositories or reach out for collaboration, internships
 ### 🚀 Professional Experience
 
 * **Data Science Intern** |**Celebel Technologies** (May 2025 – June 2025) 
-    * [cite_start]Worked on real-world projects involving data preprocessing and model development
-    * [cite_start]Gained hands-on experience with Python, SQL, and Machine Learning to deliver business insights
+    * Worked on real-world projects involving data preprocessing and model development
+    * Gained hands-on experience with Python, SQL, and Machine Learning to deliver business insights
 * **Data Analytics Intern** | **Edunet** (June 2024 – July 2024) 
     * [cite_start]Analyzed datasets to uncover patterns using Python and Excel
     * [cite_start]Performed data cleaning and statistical analysis to support data-driven decisions
