@@ -55,8 +55,8 @@ Feel free to explore my repositories or reach out for collaboration, internships
     * Worked on real-world projects involving data preprocessing and model development
     * Gained hands-on experience with Python, SQL, and Machine Learning to deliver business insights
 * **Data Analytics Intern** | **Edunet** (June 2024 – July 2024) 
-    * [cite_start]Analyzed datasets to uncover patterns using Python and Excel
-    * [cite_start]Performed data cleaning and statistical analysis to support data-driven decisions
+    * Analyzed datasets to uncover patterns using Python and Excel
+    * Performed data cleaning and statistical analysis to support data-driven decisions
 
 ---
 
