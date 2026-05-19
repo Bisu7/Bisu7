@@ -12,11 +12,11 @@ Feel free to explore my repositories or reach out for collaboration, internships
 
 <h2 align="center">Leetcode Badge<h2>  
 <p align="center">
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="gif" height="180" width="180" /></a>
-  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="gif" height="180" width="180" /></a>
   <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="gif" height="180" width="180" /></a>
   <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="gif" height="180" width="180" /></a>
+  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="gif" height="180" width="180" /></a>
   <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="gif" height="180" width="180" /></a>
+  <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="gif" height="180" width="180" /></a>
   <a href="https://leetcode.com/u/biswajitkumar_dandapat/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="gif" height="180" width="180" /></a>
 </p>
   
